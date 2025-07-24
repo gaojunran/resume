@@ -21,6 +21,8 @@
 - 在校期间加入红岩网校工作站参与项目开发，并参与技术分享，为新成员讲解 Vue3 等前端知识。
 - 绩点：3.5 / 4.0 （前 5%）
 
+<div style="margin-top: 20px"></div>
+
 <!-- ## &#xe618; 工作经验
 
 <div alt="entry-title">
@@ -53,7 +55,7 @@
 - 技术栈：Tauri，Vue3，TypeScript，Tailwind CSS，D3.js， PrimeVue
 - 技术难点：基于 Tauri / Rust 实现大文件上传；基于底层图形库 D3.js 实现知识图谱的编辑和可视化功能；与大模型接口进行流式传输；实现 markdown-it 的插件以实现 DSL；支持电脑端、移动端等多端使用。
 
-<div style="margin-top: 10px"></div>
+<div style="margin-top: 15px"></div>
 
 <div class="entry-title">
     <h3>重邮帮</h3> 
@@ -63,7 +65,10 @@
 重庆邮电大学校园互助平台。由红岩网校工作站开发的微信小程序。支持活动抢票、场地申请、课表查询、校园地图、校车轨迹等功能。
 - 在项目中负责前端开发和接口设计。
 - 技术栈：UniApp，Vue3，TypeScript，Spring，MySQL，……
-- 技术难点：封装通用组件；实现抢票功能的防抖和限流；对接地图 API；优化页面渲染、资源加载逻辑，提升用户体验。
+- 技术难点：封装通用组件；实现抢票功能的防抖和接口限流；对接地图 API 和地理坐标可视化；优化页面渲染、资源加载逻辑，提升用户体验。
+
+
+<div style="margin-top: 20px"></div>
 
 ## &#xe600; 开源项目
 
@@ -72,7 +77,9 @@
     <a href="https://github.com/gaojunran/hj">github.com/gaojunran/hj</a>
 </div>
 
-基于 Rust 的命令行工具，旨在简化版本控制。借鉴多种版本控制工具的设计，具有隐去暂存区和`stash` 概念、将冲突视为一流对象、实现自动变基、将工作树视为提交等特性，同时确保和 Git 的兼容性。仍在积极开发中。
+基于 Rust 的命令行版本控制工具，致力于简化繁琐的 Git 版本控制流程。参考多种工具的设计理念，无暂存区和`stash`，同时具有将冲突视为一流对象、实现自动变基、将工作树视为提交等特性。仍在积极开发中。
+
+<div style="margin-top: 20px"></div>
 
 ## &#xecfa; 专业技能
 
@@ -80,8 +87,10 @@
 
 - 熟悉 Vue3 及其周边生态；了解 React 等其它前端框架。
 
-- 熟练使用 Nuxt4 开发 SSR 应用；使用 UniApp 等框架开发小程序；使用 Tauri 等框架开发桌面应用。
+- 熟练使用 Nuxt 开发 SSR 应用；使用 UniApp 开发小程序；使用 Tauri 等框架开发桌面应用。
 
-- 熟悉 Vite 等构建工具及其生态。了解 Webpack、Rollup 等构建工具。
+- 熟悉 Vite 及其生态。了解 Webpack、Rollup 等构建工具。
 
-- 熟练使用 Node、Spring 等框架开发后端服务。了解数据库、消息队列等中间件。
+- 熟悉 Node、Spring 等框架开发后端服务。具备数据库、消息队列等中间件使用经验。
+
+- 熟练使用 Git 进行版本控制，具备一定的 DevOps 与 CI/CD 实践经验。
