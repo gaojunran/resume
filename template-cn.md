@@ -10,6 +10,8 @@
 
 <img class="avatar" src="https://avatars.githubusercontent.com/u/583231?v=4">
 
+<div style="margin-top: 20px"></div>
+
 ## &#xe80c; 教育经历
 
 <div class="entry-title">
@@ -17,9 +19,9 @@
     <p>2023.09 - 至今</p>
 </div>
 
-- 曾获奖项：第十六届蓝桥杯 前端 Web 开发组 全国二等奖、重庆赛区一等奖
-- 在校期间加入红岩网校工作站参与项目开发，并参与技术分享，为新成员讲解 Vue3 等前端知识。
 - 绩点：3.5 / 4.0 （前 5%）
+- 曾获奖项：第十六届蓝桥杯 前端 Web 开发组 全国二等奖、重庆赛区一等奖
+- 在校期间加入红岩网校工作站参与项目开发和技术分享，为新成员讲解 Vue3 等前端知识。
 
 <div style="margin-top: 20px"></div>
 
@@ -77,7 +79,7 @@
     <a href="https://github.com/gaojunran/hj">github.com/gaojunran/hj</a>
 </div>
 
-基于 Rust 的命令行版本控制工具，致力于简化繁琐的 Git 版本控制流程。参考多种工具的设计理念，无暂存区和`stash`，同时具有将冲突视为一流对象、实现自动变基、将工作树视为提交等特性。仍在积极开发中。
+基于 Rust 的命令行工具，致力于简化繁琐的 Git 版本控制流程。参考了多种工具的设计理念，隐藏了暂存区和`stash`，同时具有将冲突视为一流对象、自动变基、将工作树视为提交、与 GitHub / GitLab 无缝协作等特性。仍在积极开发中。
 
 <div style="margin-top: 20px"></div>
 
