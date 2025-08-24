@@ -10,7 +10,7 @@
 
 <img class="avatar" src="蓝底寸照.jpg">
 
-<div style="margin-top: 20px"></div>
+<div style="margin-top: 15px"></div>
 
 ## &#xe80c; 教育经历
 
@@ -23,7 +23,7 @@
 - 曾获奖项：第十六届蓝桥杯 前端 Web 开发组 全国二等奖、重庆赛区一等奖
 - 在校期间加入红岩网校工作站参与项目开发和技术分享，担任前端组组长。开发并维护多款已上线的校园服务类产品；同时为新成员讲解 Vue 3 等前端开发知识。
 
-<div style="margin-top: 20px"></div>
+<div style="margin-top: 15px"></div>
 
 ## &#xe635; 项目经历
  
@@ -36,7 +36,7 @@
 - 技术栈：`Tauri + Rust + Vue3 + Vite + TypeScript + UnoCSS + D3.js + PrimeVue`
 - 技术难点：实现音视频上传；基于底层图形库 D3.js 实现知识图谱的拖拽、编辑和可视化功能；与大模型接口进行流式传输；定制 markdown-it 的插件实现自定义 Markdown 渲染；跨端适配，支持电脑端、移动端使用。
 
-<div style="margin-top: 15px"></div>
+<div style="margin-top: 10px"></div>
 
 <div class="entry-title">
     <h3>重邮帮</h3> 
@@ -49,7 +49,7 @@
 - 技术难点：封装通用 UI 组件、通用查询接口；实现抢票功能的防抖和限流；对接地图 API 和地理坐标可视化；优化页面渲染、资源加载逻辑，提升用户体验。
 
 
-<div style="margin-top: 20px"></div>
+<div style="margin-top: 15px"></div>
 
 ## &#xe600; 开源项目
 
@@ -60,7 +60,7 @@
 
 基于 Rust 的命令行工具，致力于简化繁琐的 Git 版本控制流程。参考了多种工具的设计理念，隐藏了暂存区和`stash`，同时具有将冲突视为一流对象、自动变基、将工作树视为提交、与 GitHub / GitLab 无缝协作等特性。仍在积极开发中。
 
-<div style="margin-top: 20px"></div>
+<div style="margin-top: 15px"></div>
 
 ## &#xecfa; 专业技能
 
@@ -68,11 +68,11 @@
 
 - 熟悉 Vue 3、React 18+ 的使用及其周边生态。了解其它前端框架及其设计理念。
 
-- 熟练使用 Next、Nuxt、TanStack Start 开发 SSR 应用。
+- 熟练使用 Next、Nuxt、TanStack Start 开发 SSR 全栈应用。
 
 - 熟练使用 Taro 开发小程序；使用 Tauri 等框架开发客户端。具备跨端适配经验。
 
-- 熟悉 Vite 及其生态。了解 Webpack、Rollup 等构建工具。
+- 熟悉 Vite 及其生态。熟悉前端项目的构建、打包流程。
 
 - 熟练使用 Elysia (Bun/TypeScript)、Spring (Java) 等框架开发后端服务。具备数据库、消息队列等中间件使用经验。
 
