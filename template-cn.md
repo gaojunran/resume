@@ -68,12 +68,12 @@
 
 - 熟悉 Vue 3、React 18+ 的使用及其周边生态。了解其它前端框架及其设计理念。
 
-- 熟练使用 Next、Nuxt、TanStack Start 开发 SSR 全栈应用。
+- 熟练使用 Next、Nuxt 开发 SSR 全栈应用。
 
-- 熟练使用 Taro 开发小程序；使用 Tauri 等框架开发客户端。具备跨端适配经验。
+- 熟练使用 UniApp、Taro 开发小程序；使用 Tauri 等框架开发客户端。具备跨端适配经验。
 
 - 熟悉 Vite 及其生态。熟悉前端项目的构建、打包流程。
 
-- 熟练使用 Elysia (Bun/TypeScript)、Spring (Java) 等框架开发后端服务。具备数据库、消息队列等中间件使用经验。
+- 熟练使用 Koa、Spring 等框架开发后端服务。具备数据库、消息队列等中间件使用经验。
 
 - 熟练使用 Git 进行版本控制，具备一定的 DevOps 与 CI/CD 实践经验。
